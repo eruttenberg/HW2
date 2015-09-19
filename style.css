@@ -1,0 +1,31 @@
+body {
+	color : Black;
+	background-color: White;
+	font-size: 20 pt;
+	font-family: Veranda; Geneva, Arial, Helvetica, Sans-serif;
+	text-align:center;
+	margin:20px
+}
+h1 {text-align: center;
+}
+#title{font-size: 24pt;
+text-align: center;}
+
+.wrap{margin:auto; width:90%; text-align:left; background-color: Orange; border: 5 px solid black;}
+#resume{
+	text-align: left;
+	margin: 0 auto;
+	padding: 15px;
+	width:85%;
+}
+#left{
+	width: 15%;
+	float:left;
+	padding: 15px;
+}
+
+#right{
+	width: 15%;
+	float: right;
+	padding; 15px;
+}
