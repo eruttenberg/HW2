@@ -1,6 +1,6 @@
 body {
 	color : Black;
-	background-color: White;
+	background-color: gray;
 	font-size: 20 pt;
 	font-family: Veranda; Geneva, Arial, Helvetica, Sans-serif;
 	text-align:center;
@@ -8,10 +8,22 @@ body {
 }
 h1 {text-align: center;
 }
-#title{font-size: 24pt;
+
+h3{text-align: center;
+}
+#title{font-size: 28pt;
 text-align: center;}
 
-.wrap{margin:auto; width:90%; text-align:left; background-color: Orange; border: 5 px solid black;}
+.wrap{font-size: 20pt; margin:auto; width:90%; text-align:center; background-color: Green; border: 5 px solid black;}
+
+
+#info{
+	text-align:left;
+}
+
+#list{
+margin: auto; width: 90%; text-align: left; background-color: green; border: 5 px solid black; text-align: center; font-size: 20pt;
+}
 #resume{
 	text-align: left;
 	margin: 0 auto;
